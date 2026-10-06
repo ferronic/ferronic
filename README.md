@@ -32,3 +32,23 @@ const ferronic: SecurityResearcher = {
   labs:       ["Linux", "Kali Linux", "TryHackMe (100+ Day Streak)"],
   toolkit:    ["Python", "Shell Scripting", "Nmap", "Burp Suite", "Wireshark"],
 };
+```
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ferronic&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+<!-- GITSKINS LIVING IDENTITY DOT-MATRIX AVATAR VISUAL -->
+<img src="https://www.gitskins.com/api/section/heatmap?username=ferronic&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F85927102%3Fu%3D2438e4d8eb74170d8fa6d80ff6c711b2f6a1e257%26v%3D4" width="100%" alt="Ferronic living identity avatar" />
+
+<br/>
+
+</div>
+
+<!-- TERMINAL WORDMARK CLI WINDOW -->
+```bash
+# ferronic@github: ~$ ./wordmark.sh --name
+
+  _____ _____ _____  _____  ____  _   _ _____ _____ 
+ |  ___|  ___|  _  \/  _  \/  _ \| \ | |_   _/  ___|
+ | |_  | |__ | |_) || | | || | | |  \| | | | | |    
+ |  _| |  __||  _  /| | | || | | | . ` | | | | |    
+ | |   | |___| | \ \| |_| || |_| | |\  |_| |_| |___ 
+ \_|   \____/\_|  \_|\___/ \___/ \_| \_/\___/\_____| 
