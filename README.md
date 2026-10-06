@@ -5,10 +5,8 @@
 
 <br/>
 
-<!-- GITSKINS LIVING IDENTITY DOT-MATRIX AVATAR VISUAL -->
-<img src="https://www.gitskins.com/api/section/heatmap?username=ferronic&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F85927102%3Fu%3D2438e4d8eb74170d8fa6d80ff6c711b2f6a1e257%26v%3D4" width="100%" alt="Ferronic living identity avatar" />
 
-<br/>
+
 
 <!-- ANIMATED TERMINAL BOOT SEQUENCE -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&pause=700&color=00F3FF&center=false&vCenter=false&width=700&height=80&lines=ferronic%40github%3A+~%24+./wordmark.sh+--name;%5B%2B%5D+Authenticating+user...;%5B%2B%5D+Access+Granted.;%5B%2B%5D+Rendering+ASCII+identity...&multiline=true" alt="Terminal Boot Animation" />
@@ -68,11 +66,10 @@ const ferronic: SecurityResearcher = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,kali,python,bash,js,html,css&perline=8&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=linux,kali,python,html&perline=8&theme=dark" alt="Tech stack" />
 
 <br/><br/>
 
-**🛡️ OS & Environment &nbsp;·&nbsp; ⚙️ Tools & Scripting**
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" alt="Linux" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0d1117" alt="Kali Linux" />
