@@ -5,9 +5,9 @@
 
 <br/>
 
-<!-- ANIMATED TERMINAL WORDMARK CLI -->
+<!-- FAST-LOADING ANIMATED TERMINAL WORDMARK -->
 <a href="https://github.com/ferronic">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=14&pause=1000&color=39FF14&background=0D1117&vCenter=true&width=750&height=220&lines=%F0%9F%94%B4+%F0%9F%9F%A1+%F0%9F%9F%A2+ferronic%40github%3A~%24+.%2Fwordmark.sh+--execute;+;%20%20_____%20_____%20_____%20%20_____%20%20____%20%20_%20%20%20_%20_____%20_____%20;%20%7C%20%20___%7C%20%20___%7C%20%20_%20%20%5C%2F%20%20_%20%20%5C%2F%20%20_%20%5C%7C%20%5C%20%7C%20%7C_%20%20%20_%2F%20%20___%7C;%20%7C%20%7C_%20%20%7C%20%7C__%20%7C%20%7C_%)%20%7C%7C%20%7C%20%7C%20%7C%7C%20%7C%20%7C%20%7C%20%20%5C%7C%20%7C%20%7C%20%7C%20%7C%20%7C%20%20%20%20;%20%7C%20%20_%7C%20%7C%20%20__%7C%7C%20%20_%20%20%2F%7C%20%7C%20%7C%20%7C%7C%20%7C%20%7C%20%7C%20.%20%60%20%7C%20%7C%20%7C%20%7C%20%7C%20%20%20%20;%20%7C%20%7C%20%20%20%7C%20%7C___%7C%20%7C%20%5C%20%5C%7C%20%7C_%7C%20%7C%7C%20%7C_%7C%20%7C%20%7C%5C%20%20%7C_%7C%20%7C_%7C%20%7C___;%20%5C_%7C%20%20%20%5C____%2F%5C_%7C%20%20%5C_%7C%5C___%2F%20%5C___%2F%20%5C_%7C%20%5C_%2F%5C___%2F%5C____%7C&multiline=true" alt="Terminal Wordmark Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=700&height=70&lines=ferronic%40github%3A~%24+.%2Fwordmark.sh+%5BINIT%5D;FERRONIC+%E2%9A%A1+CYBERSECURITY+RESEARCHER" alt="Terminal Wordmark Animation" />
 </a>
 
 <br/>
